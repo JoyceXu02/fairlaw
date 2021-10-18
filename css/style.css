@@ -115,9 +115,10 @@ header a:hover{
 
 #newsletter form{
 	float: right;
-	margin-top: 15px;
+	margin-top: 3px;
 
 }
+
 #newsletter input[type='email']{
 	padding: 4px;
 	height: 25px;
@@ -148,6 +149,13 @@ header a:hover{
 
 #boxes .box img#cmu{
 	width: 200px;
+}
+
+#boxes .box img#canlii{
+	width: 200px;
+}
+#boxes .box img#montreal{
+	width: 250px;
 }
 
 /*Sidebar*/
