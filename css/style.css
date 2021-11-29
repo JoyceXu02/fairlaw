@@ -182,7 +182,7 @@ aside#sidebar .quote input, aside#sidebar .quote textarea{
 /*main-col*/
 article#main-col{
 	float: left;
-	width: 70%;
+	width: 65%;
 }
 article#main-col .page-title{
 	font-size: 30px;
