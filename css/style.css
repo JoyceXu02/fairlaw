@@ -207,13 +207,16 @@ article#main-col .page-title{
 	font-size: 30px;
 }
 
-.paper a{
+.paper a, .people a{
 	color:#000000;
 	text-decoration: none;
 }
 .paper a:hover{
 	color: #000000;
 	font-weight: bold;
+}
+.people a:hover{
+	color:#333232;
 }
 
 /* Services*/
