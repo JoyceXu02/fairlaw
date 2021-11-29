@@ -169,9 +169,8 @@ header a:hover{
 /*Sidebar*/
 aside#sidebar{
 	float: right;
-	width: 25%;
+	width: 28%;
 	margin-top: 10px;
-	margin-left: 10px;
 }
 
 aside#sidebar .quote input, aside#sidebar .quote textarea{
