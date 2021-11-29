@@ -83,6 +83,7 @@ header a:hover{
 	font-weight: bold;
 }
 
+
 /* Showcase */
 #showcase{
 	min-height: 400px;
@@ -98,7 +99,8 @@ header a:hover{
 	margin-bottom: 0px;
 }
 
-#showcase p{
+
+#showcase p, #fundinfo p{
 	font-size: 20px;
 	color: #000000;
 	text-align: left;
@@ -108,6 +110,23 @@ header a:hover{
 	line-height: 0.5;
 
 }
+/*fund information*/
+#fundinfo h2{
+	color:#003594;
+	text-align: center;
+}
+
+#fundinfo a{
+	color: #003594;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#fundinfo a:hover{
+	color: #0761d7;
+	font-weight: bold;
+}
+
 
 /*Newsletter*/
 
@@ -186,6 +205,15 @@ article#main-col{
 }
 article#main-col .page-title{
 	font-size: 30px;
+}
+
+.paper a{
+	color:#000000;
+	text-decoration: none;
+}
+.paper a:hover{
+	color: #000000;
+	font-weight: bold;
 }
 
 /* Services*/
