@@ -158,31 +158,34 @@ header a:hover{
 	margin-top: 20px;
 }
 
-#boxes .box{
+#boxes1 .box{
 	float: left;
 	text-align: center;
 	width: 30%;
 	padding: 10px;
 
 }
+#boxes2 .box{
+	text-align: center;
+	display: block;
 
-#boxes .box img{
+}
+
+#boxes1 .box img{
 	width: 100px;
 }
 
-#boxes .box img#pitt{
+#boxes1 .box img#pitt{
 	width: 300px;
 }
 
-#boxes .box img#cmu{
-	width: 200px;
-}
 
-#boxes .box img#canlii{
+#boxes1 .box img#canlii{
 	width: 200px;
 }
-#boxes .box img#montreal{
+#boxes2 .box img#montreal{
 	width: 250px;
+
 }
 
 /*Sidebar*/
